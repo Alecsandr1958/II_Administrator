@@ -1,6 +1,6 @@
 # ИИ-Администратор
 
-ссылка на проект
+ссылка на проект:
 скриншот 1 https://github.com/Alecsandr1958/II_Administrator/blob/main/2025-03-20_15-53-53.png
 скриншот 2 https://github.com/Alecsandr1958/II_Administrator/blob/main/2025-03-20_15-54-36.png
 
